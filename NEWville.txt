@@ -6,3 +6,4 @@ ExerciceCloneCommitNEWAfrique
 NewCommitToPuShInRemote
 NewCommitToPuShInRemote2
 NewCommitFromRemote1
+NewCommitFromRemote2
