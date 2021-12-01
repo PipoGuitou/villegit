@@ -5,3 +5,4 @@ VilleAfrique2
 ExerciceCloneCommitNEWAfrique
 NewCommitToPuShInRemote
 NewCommitToPuShInRemote2
+NewCommitFromRemote1
